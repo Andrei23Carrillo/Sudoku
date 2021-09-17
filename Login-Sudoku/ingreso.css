@@ -1,0 +1,41 @@
+
+.btn {
+    display: inline-block;
+    padding: 4px 10px 4px;
+    margin-top: 25px;
+    font-size: 13px;
+    color: lightgray;
+    text-align: center;
+    text-shadow: 0 1px 1px darkred;
+    background-color: #4a77d4;
+    border: 1px solid #e6e6e6;
+    border-radius: 100px;
+    width: 100%;
+}
+
+
+html {overflow:hidden;}
+
+img {
+    width: 100%;
+    height:100%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+   background: -webkit-linear-gradient(left,#092756, mediumpurple);
+}
+.ingreso {
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    margin: -150px 0 0 -150px;
+    width:300px;
+    height:300px;
+}
+.ingreso h1 {
+    color:Yellow;
+    text-shadow: 0 0 10px darkred;
+    letter-spacing:1px;
+    text-align:center;
+}
